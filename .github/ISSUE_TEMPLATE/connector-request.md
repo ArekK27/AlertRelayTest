@@ -1,7 +1,7 @@
 ---
 name: Connector request
 about: New connector or feature
-title: ''
+title: Alert Relay, new connector request
 labels: ''
 assignees: ''
 
